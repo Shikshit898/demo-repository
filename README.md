@@ -1,3 +1,3 @@
 # demo-repository
-This is my first repository. \nMy name is Shikshit. 
+This is my first repository. 
 
